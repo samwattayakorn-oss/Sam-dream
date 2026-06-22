@@ -9,6 +9,6 @@ Sam Dream Ever Dream Can Come True
 <body>
     <h1>Sam Dream Every dream can come true.
 Because every dream begins with action.</h1>
-    <p>สวัสดีชุมชนชาวโลกผู้มีความฝันทุกคน</p>
+    <p>สวัสดีชุมชนชาวโลกผู้สร้างความฝันทุกคน</p>
 </body>
 </html>
