@@ -7,7 +7,8 @@ Sam Dream Ever Dream Can Come True
     <title>Sam Dream</title>
 </head>
 <body>
-    <h1>Sam Dream Every Dream Can Come True</h1>
+    <h1>Sam Dream Every dream can come true.
+Because every dream begins with action.</h1>
     <p>สวัสดีชุมชนชาวโลกผู้มีความฝันทุกคน</p>
 </body>
 </html>
