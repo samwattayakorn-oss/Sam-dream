@@ -1,5 +1,5 @@
 # Sam-dream
-Sam Dream Bedding Store
+Sam Dream Ever Dream Can Come True
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +7,7 @@ Sam Dream Bedding Store
     <title>Sam Dream</title>
 </head>
 <body>
-    <h1>Sam Dream Bedding Store</h1>
-    <p>Hello World</p>
+    <h1>Sam Dream Every Dream Can Come True</h1>
+    <p>สวัสดีชุมชนชาวโลกผู้มีความฝันทุกคน</p>
 </body>
 </html>
